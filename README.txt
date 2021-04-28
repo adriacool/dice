@@ -1,0 +1,1 @@
+Calculate the probability that the difference between 2 rolls of a n-sided die is less than or equal to some number x. Similarly; If 2 numbers are chosen at random from the first n positive integers, what is the probability that their difference is less than or equal to x?
