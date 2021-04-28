@@ -8,4 +8,4 @@ def calc_prob(sides, diff):
 #calc_prob(20, 3)
 #calc_prob(6, 2)
 print("Calculate the probability of some difference between 2 rolls of a fair die with some number of sides:")
-calc_prob(int(input("How many sides? ")), int(input("Enter difference(inclusive): ")))
+print(calc_prob(int(input("How many sides? ")), int(input("Enter difference(inclusive): "))))
