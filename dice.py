@@ -7,5 +7,5 @@ def calc_prob(sides, diff):
   return P 
 #calc_prob(20, 3)
 #calc_prob(6, 2)
-print("Calculate the probability of some difference between 2 rolls of a fair die with some number of sides:")
-print(calc_prob(int(input("How many sides? ")), int(input("Enter difference(inclusive): "))))
+print("Calculate the probability that the difference between 2 rolls of a n-sided die is less than or equal to some number x:")
+print(calc_prob(int(input("How many sides(n)? ")), int(input("Enter difference(x): "))))
